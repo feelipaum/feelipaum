@@ -4,8 +4,6 @@
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feelipaum&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-
 <div>
 <a href = "mailto:contato@feelipaum"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
